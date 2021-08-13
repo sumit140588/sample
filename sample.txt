@@ -1,5 +1,9 @@
-<<<<<<< HEAD
+
+
+
+
+
+
+
 ABC
-=======
-dada
->>>>>>> 2f78c3e (sample file)
+
